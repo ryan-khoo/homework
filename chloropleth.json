@@ -27,7 +27,7 @@
       "field": "Active Cases",
       "type": "quantitative",
       "scale": {
-        "type": "threshold"
+        "type": "threshold",
         "domain": [10000, 100000, 500000],
         "range": ["#f2e6ff", "#cc99ff", "#9933ff", "#330066"]
       }
