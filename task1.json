@@ -10,6 +10,8 @@
           "domain": false
       }
   },
+  "width": 700,
+  "height": 150,
   "params": [
     {
       "name": "Total_cases",
